@@ -65,4 +65,4 @@ WAIT till you see "HANDSHAKE CAPTURED" on the top of the target scan window. if 
 When you choose the cap file that you want a program named cowpatty will check if you have all the necessary data for the handshake
 When you choose the cap file that you want a program named cowpatty will check if you have all the necessary data for the handshake
 After you have selected the cap file that u want. The program will open up a second file picker that lets you pick a wordlist to put aginst the cap file to crack.
-Once you have picked both files aircrack will start up and try to crack the handshake. This process could take 5mins to days depending on the strength of the password and or if your wordlist has their password in it youj just have to keep trying.
+Once you have picked both files aircrack will start up and try to crack the handshake. This process could take 5mins to days depending on the strength of the password and or if your wordlist has their password in it you just have to keep trying.
