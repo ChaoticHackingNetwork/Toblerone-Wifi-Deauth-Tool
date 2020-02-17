@@ -14,9 +14,10 @@ Dependacies
 ------------------
 htop
 xterm
-aircrack-ng suite
+aircrack-ng
 cowpatty
 
 htop
 ----
 opens a xterm window that has htop task-manager
+<img src="./screenShots/3.png/">
