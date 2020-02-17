@@ -16,7 +16,6 @@ htop
 xterm
 aircrack-ng suite
 cowpatty
-------------------
 
 htop
 ----
