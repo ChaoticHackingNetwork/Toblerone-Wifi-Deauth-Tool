@@ -20,5 +20,25 @@ cowpatty
 htop
 ----
 opens a xterm window that has htop task-manager
-<img src=" screenShots/Screenshot from 2020-02-05 23-16-12.png">
+
+iwconfig
+--------
+shows you the names of interfaces
+helps to find your wireless card to config
+shows what mode the wireless adapter is in (moniter or managed)
+
+iwconfig
+--------
+shows you the names of interfaces
+helps to find your wireless card to config
+shows what mode the wireless adapter is in (moniter or managed)
+
+interface monitor
+-----------------
+sets the network card to moniter mode by the commands
+$ ifconfig <interface> down
+$ iwconfig <interface> mode moniter
+$ ifconfig <interface> up
+then uses airoplay-ng to check if interface is in moniter mode and injection
+
 
