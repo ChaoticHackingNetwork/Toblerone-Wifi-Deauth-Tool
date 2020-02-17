@@ -20,5 +20,5 @@ cowpatty
 htop
 ----
 opens a xterm window that has htop task-manager
-<img src=" screenShots/3.png">
+<img src=" screenShots/Screenshot from 2020-02-05 23-16-12.png">
 
